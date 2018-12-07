@@ -1,12 +1,8 @@
 Docker images for libindi build environment
 ===================
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-artful.svg?label=Ubuntu+Artful)
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-bionic.svg?label=Ubuntu+Bionic)
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-stretch.svg?label=Debian+Stretch)
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-buster.svg?label=Debian+Buster)
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-fedora.svg?label=Fedora)
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-centos.svg?label=CentOS)
-![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-opensuse.svg?label=Open+SuSe)
+
+![Docker Build Status](https://img.shields.io/docker/build/jochym/indi-docker.svg)
+[Images](https://hub.docker.com/r/jochym/indi-docker/builds/)
 
 This directory contains Dockerfiles for building environments on various linux distributions
 
